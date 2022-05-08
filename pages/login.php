@@ -32,7 +32,7 @@
             <button class="btn mt-3">Login</button>
         </form>
         <div class="text-center fs-6">
-            <a href="#">Forget password?</a> or <a href="#">Sign up</a>
+            <a href="#">Forget password?</a> or <a href="pages/register.php">Sign up</a>
         </div>
     </div>
                                 <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js'></script>
